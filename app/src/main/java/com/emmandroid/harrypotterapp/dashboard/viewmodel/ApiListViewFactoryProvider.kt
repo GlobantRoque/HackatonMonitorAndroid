@@ -1,8 +1,8 @@
-package com.emmandroid.harrypotterapp.viewmodel
+package com.emmandroid.harrypotterapp.dashboard.viewmodel
 
-import com.emmandroid.harrypotterapp.data.network.HarryPotterApiClientProvider
-import com.emmandroid.harrypotterapp.data.repository.ApiStatusRepository
-import com.emmandroid.harrypotterapp.domain.usecase.GetApiStatusUse
+import com.emmandroid.harrypotterapp.dashboard.data.network.HarryPotterApiClientProvider
+import com.emmandroid.harrypotterapp.dashboard.data.repository.ApiStatusRepository
+import com.emmandroid.harrypotterapp.dashboard.domain.usecase.GetApiStatusUse
 
 class ApiListViewFactoryProvider {
 

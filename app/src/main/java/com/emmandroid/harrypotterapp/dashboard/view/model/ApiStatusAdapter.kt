@@ -1,4 +1,4 @@
-package com.emmandroid.harrypotterapp.view.model
+package com.emmandroid.harrypotterapp.dashboard.view.model
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

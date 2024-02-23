@@ -1,4 +1,4 @@
-package com.emmandroid.harrypotterapp.data.network
+package com.emmandroid.harrypotterapp.dashboard.data.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

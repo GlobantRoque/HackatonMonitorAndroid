@@ -1,8 +1,8 @@
-package com.emmandroid.harrypotterapp.data.repository
+package com.emmandroid.harrypotterapp.dashboard.data.repository
 
-import com.emmandroid.harrypotterapp.data.network.HarryPotterApiClientProvider
-import com.emmandroid.harrypotterapp.view.model.ApiStatus
-import com.emmandroid.harrypotterapp.view.model.ServiceStatus
+import com.emmandroid.harrypotterapp.dashboard.data.network.HarryPotterApiClientProvider
+import com.emmandroid.harrypotterapp.dashboard.view.model.ApiStatus
+import com.emmandroid.harrypotterapp.dashboard.view.model.ServiceStatus
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.lang.Exception

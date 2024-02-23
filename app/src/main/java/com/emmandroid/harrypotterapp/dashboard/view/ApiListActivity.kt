@@ -1,4 +1,4 @@
-package com.emmandroid.harrypotterapp.view
+package com.emmandroid.harrypotterapp.dashboard.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -8,9 +8,9 @@ import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import com.emmandroid.harrypotterapp.R
 import com.emmandroid.harrypotterapp.databinding.ActivityMainBinding
-import com.emmandroid.harrypotterapp.view.model.ApiStatusAdapter
-import com.emmandroid.harrypotterapp.viewmodel.ApiListViewFactoryProvider
-import com.emmandroid.harrypotterapp.viewmodel.ApiListViewModel
+import com.emmandroid.harrypotterapp.dashboard.view.model.ApiStatusAdapter
+import com.emmandroid.harrypotterapp.dashboard.viewmodel.ApiListViewFactoryProvider
+import com.emmandroid.harrypotterapp.dashboard.viewmodel.ApiListViewModel
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat
 

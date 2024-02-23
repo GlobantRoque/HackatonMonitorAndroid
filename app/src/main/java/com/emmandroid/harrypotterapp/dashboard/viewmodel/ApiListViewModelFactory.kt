@@ -1,8 +1,8 @@
-package com.emmandroid.harrypotterapp.viewmodel
+package com.emmandroid.harrypotterapp.dashboard.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.emmandroid.harrypotterapp.domain.usecase.GetApiStatusUse
+import com.emmandroid.harrypotterapp.dashboard.domain.usecase.GetApiStatusUse
 
 class ApiListViewModelFactory(
     private val getApiStatusUse: GetApiStatusUse,

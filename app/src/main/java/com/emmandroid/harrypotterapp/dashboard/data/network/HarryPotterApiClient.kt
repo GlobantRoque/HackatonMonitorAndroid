@@ -1,7 +1,7 @@
-package com.emmandroid.harrypotterapp.data.network
+package com.emmandroid.harrypotterapp.dashboard.data.network
 
-import com.emmandroid.harrypotterapp.data.model.BookCharacter
-import com.emmandroid.harrypotterapp.data.model.SpellDataModel
+import com.emmandroid.harrypotterapp.dashboard.data.model.BookCharacter
+import com.emmandroid.harrypotterapp.dashboard.data.model.SpellDataModel
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

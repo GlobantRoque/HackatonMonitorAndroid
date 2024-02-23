@@ -1,4 +1,4 @@
-package com.emmandroid.harrypotterapp.view.model
+package com.emmandroid.harrypotterapp.dashboard.view.model
 
 import android.graphics.Color
 import androidx.recyclerview.widget.RecyclerView
