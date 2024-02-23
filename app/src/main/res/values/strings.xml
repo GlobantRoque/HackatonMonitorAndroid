@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HarryPotterApp</string>
+    <string name="date_last_update">Última actualización: %s</string>
+    <string name="hour_last_update">Última actualización: %s</string>
+    <string name="next_update">Próxima actualización: %s</string>
+    <string name="endpoint_title">Endpoint: %s</string>
+    <string name="status_title">Status: %s</string>
+</resources>
